@@ -17,7 +17,7 @@
     "zlib-sync": "0.1.8"
   },
   "devDependencies": {
-    "eslint": "8.46.0"
+    "eslint": "8.55.0"
   },
   "resolutions": {
     "@discordjs/rest": "1.6.0",
